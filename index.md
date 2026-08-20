@@ -6,8 +6,8 @@ This policy describes what data the Eggonic Discord bot ("the bot", "we") proces
 
 ## 1. Who is responsible
 
-Data controller: **[FULL LEGAL NAME]**, **[POSTAL ADDRESS]**.
-Contact for all privacy matters and data-subject requests: **nadidiaididan@gmail.com**.
+Data controller: the individual operator of Eggonic, known on Discord as **nadidiaididan**.
+Contact for all privacy matters and data-subject requests: **nadidiaididan@gmail.com**. We respond to requests made to this address regardless of the platform they concern.
 
 The bot runs on a server operated for us by Hetzner Online GmbH in Germany (European Union). Discord Inc. operates the Discord platform itself and is an independent controller of your Discord account data; this policy covers only what the bot processes.
 
