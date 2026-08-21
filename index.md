@@ -68,7 +68,7 @@ Hetzner Online GmbH (Germany) hosts the server as our processor. Data the bot po
 
 ## 9. Security
 
-The database and configuration credentials are restricted to the operator's access-controlled server; secrets are stored in permission-restricted files; the bot requests from Discord only the permissions and gateway intents its features require.
+All stored data resides in a database whose storage lives on an encrypted volume (LUKS, AES), encrypted at rest in its entirety. Access to the server is key-based and restricted to the operator; secrets are stored in permission-restricted files; transport to and from Discord uses TLS; and the bot requests from Discord only the permissions and gateway intents its features require.
 
 ## 10. Children
 
